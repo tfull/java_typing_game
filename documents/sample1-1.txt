@@ -1,0 +1,2 @@
+This is typing game implemented by Java. You can enjoy typing game by your favorite document.
+Go on to the next page.
