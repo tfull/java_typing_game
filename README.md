@@ -39,5 +39,9 @@ java -cp bin word.TypingWords words/text\_path
 java -cp bin document.TypingDocument doc\_path  
 ただし text\_path はファイル名， doc\_path は，ディレクトリ名  
 java -cp bin document.TypingDocument documents  
-java -cp bin document.TypingWords words/sample.txt  
+java -cp bin word.TypingWords words/sample.txt  
 とやると，サンプルのテキストで実行できる。  
+
+## デモ
+YouTubeで公開  
+https://www.youtube.com/watch?v=Xxl_Px3Zvj8
